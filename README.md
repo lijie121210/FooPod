@@ -1,0 +1,2 @@
+# FooPod
+lib foo pod
